@@ -1,5 +1,7 @@
 # Youtube notifications for skyglow notifications
 
+!!! May not work properly because I am still testing, it's just hard to test on real uploads due to their random nature.
+
 To add the channels you want to get notifications for you need to add the channel ids to the channel_ids list.
 
 Make sure that the notification data is being sent to the correct port that skyglow notifications is hosted on.
