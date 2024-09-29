@@ -10,7 +10,7 @@ Open Youtube.py and replace the placeholder list with the generated list.<br /><
 Step 4:<br />
 On first startup or whenever you add another channel ID run this:<br />
 python YoutubeBot.py --channel_list<br />
-It will then add the video IDs from all channels (This isn't actually all the videos from a channel it's only the 10ish more recent videos)<br /><br />
+It will then add the video IDs from all channels (This isn't actually all the videos from a channel it's only 10-ish of the most recent videos)<br /><br />
 Step 5:<br />
 Now you're setup! Just run youtube.py and now you'll receive notifications about new uploads<br /><br />
 
