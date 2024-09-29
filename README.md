@@ -2,7 +2,7 @@
 
 # Setup:
 Step 1:<br />
-Using YoutubeHandleToID.py, edit and insert your own Youtube API key. Then when prompted enter all the handle of the channels you want notifications for separated with spaces then press enter and copy the outputed list.<br /><br />
+Using YoutubeHandleToID.py, edit and insert your own Youtube API key. Then when prompted enter all the handles for the channels you want notifications for separated with spaces then press enter and copy the outputed list.<br /><br />
 Step 2:<br />
 Make sure the skyglow notification port is set correctly.<br /><br />
 Step 3:<br />
